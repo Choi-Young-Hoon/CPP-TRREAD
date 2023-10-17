@@ -3,6 +3,10 @@
 thread_create
 thread_create_using_lambda
 thread_show_threadID
+condition_variable
+mutex_lockguard
+mutex
+thread_return.cpp
 ### C++ ###
 # Prerequisites
 *.d
