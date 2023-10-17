@@ -1,0 +1,2 @@
+add_executable(thread_create thread_create.cpp)
+add_executable(thread_create_using_lambda thread_create_using_lambda.cpp)
